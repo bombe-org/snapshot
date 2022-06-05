@@ -1,7 +1,7 @@
 # snapshot
 
-https://github.com/bombehub/FrequentSnapshot
+https://github.com/bombe-org/FrequentSnapshot
 
-https://github.com/bombehub/RedisPersistent
+https://github.com/bombe-org/RedisPersistent
 
-https://github.com/bombehub/VirtualSnapshot
+https://github.com/bombe-org/VirtualSnapshot
